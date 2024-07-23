@@ -48,7 +48,7 @@ Answer: Answer text
       const response = await axios.post('https://api.openai.com/v1/chat/completions', requestData, {
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer sk-proj-NbecH2OpJbONaGnVyBhqT3BlbkFJcLZWsdjxf4klB6eABLxz`
+          'Authorization': `Bearer sk-proj-NbecH2OpJbONaGnVyBhqT3BlbkFJcLZWsdjxf4klB6eABLxz`#disabledkeynotlegit
         }
       });
 
